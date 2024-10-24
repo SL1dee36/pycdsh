@@ -16,7 +16,7 @@ Python Code Obfuscator - это инструмент для обфускации
 
    ```bash
    git clone https://github.com/sl1dee36/pycdsh.git
-   cd cdsh-codeShield
+   cd pycdsh
    ```
 
 2. Убедитесь, что у вас установлен Python 3.8 или выше.
