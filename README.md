@@ -1,4 +1,4 @@
-# cdsh: Code Shield || Python Code Obfuscator
+# cdsh
 
 ## Описание
 
@@ -15,7 +15,7 @@ Python Code Obfuscator - это инструмент для обфускации
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/sl1dee36/cdsh-codeShield.git
+   git clone https://github.com/sl1dee36/pycdsh.git
    cd cdsh-codeShield
    ```
 
